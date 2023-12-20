@@ -1,5 +1,7 @@
 # Product List
 This project is a website created using React.
+## Screenshots
+![Project snapshot](./product.gif) 
 [Product List Live Page](https://productshadow.netlify.app/)
 ## Description
 In the project directory, you can run:
